@@ -127,7 +127,7 @@ int main ()
 		printf("\t3 - Deletar  Nomes\n");
 		printf("\t4 - Sair do menu\n\n"); //Fim do menu
 		
-		
+		printf("Opção: ");
 		scanf("%d", &opcao); //Armazenando a escolha do usuário
 		
 		system("cls"); //Limpar a tela
